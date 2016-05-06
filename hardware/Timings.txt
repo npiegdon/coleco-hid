@@ -1,0 +1,20 @@
+
+Rollercontroller hardware
+=========================
+Pin 9 rise time: 1ms
+Pin 9 fall time: ~10us
+Pin 7 rise/fall time: ~10us
+
+Typical full quad cycle time, moving v.slowly: 25-50ms
+Typical full quad cycle time, moving medium: 12ms
+Typical full quad cycle time, moving fast: 6ms
+Typical full quad cycle time, moving v.fast: 1-2ms
+
+
+
+Super Action Controller hardware
+================================
+
+Typical full quad cycle time, moving fast: 100ms
+Typical full quad cycle time, moving v.fast: 30-50ms
+
